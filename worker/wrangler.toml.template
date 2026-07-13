@@ -159,8 +159,8 @@ ENABLE_AUTO_REPLY = false
 
 [[d1_databases]]
 binding = "DB"
-database_name = "xxx"
-database_id = "xxx"
+database_name = "temp_email"
+database_id = "53c98035-0c10-488d-9939-21579d7ca153"
 
 # Workers AI binding (required for AI email extraction)
 # [ai]
